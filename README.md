@@ -1,6 +1,6 @@
 # Onyx Manga Translator
 
-![Onyx Manga Translator Splash](httpsd://i.imgur.com/your-splash-image.png](https://i.imgur.com/H7lQATA.png))
+![Onyx Manga Translator Splash](https://i.imgur.com/H7lQATA.png)
 
 Onyx is a powerful, purely locally running machine translation pipeline designed to translate manga automatically. Integrates an ML model for speech bubble detection (credits below), OCR (credits below), and typesetting to deliver a seamless translation experience right on your own machine.
 
@@ -59,5 +59,5 @@ All future development, including smaller bug fixes, new features, and performan
 
 Your support allows for the continued development. Thank you.
 ## Credits
-**(https://huggingface.co/kitsumed/yolov8m_seg-speech-bubble)
-**(https://github.com/kha-white/manga-ocr)
+https://huggingface.co/kitsumed/yolov8m_seg-speech-bubble
+https://github.com/kha-white/manga-ocr
