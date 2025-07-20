@@ -54,12 +54,13 @@ All future development, including smaller bug fixes, new features, and performan
 * **Expanded Language Support**: Translation support for Korean and Chinese.
 * **Commercial Licenses**: Options for professional and commercial translation teams.
 * **Support and suggestions**: Help with any arising issues and the ability to suggest new features in the Discord.
+* **DISCLAIMER**: When you subscribe on Patreon, which will NEVER change prices (it will always be $5/mo) you are not required to re-subscribe. Subscribing once and then continuing to use the translator if you do not require frequent updates is completely fine and is encouraged. There will be no authentication except for if you've subscribed before. If you have, Onyx will never lock you out, since the purpose of this tool is to be local and non-intrusive.
 
 <a href="https://www.patreon.com/your-patreon-link">
     <img src="https://github.com/thradnea/onyx-manga-translator/blob/main/images/patreon.png?raw=true" alt="Become a Patron" />
 </a>
 
-Your support allows for the continued development. Thank you.
+Your support is immensely appreciated. Thank you.
 ## Credits
 https://huggingface.co/kitsumed/yolov8m_seg-speech-bubble
 https://github.com/kha-white/manga-ocr
