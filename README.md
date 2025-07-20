@@ -39,7 +39,7 @@ This tool is designed for readers and scanlation groups who need a fast way to g
 
 This project is provided as-is and is free to use, modify, and distribute.
 
-However, if you use this tool in any public project, **you must provide clear and visible credit** by linking back to this GitHub repository.
+However, if you use this tool in any public project, **credit is greatly appreciated**.
 
 While you are free to use this version, please note the future development model below.
 
