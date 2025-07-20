@@ -1,0 +1,1 @@
+# onyx-manga-translator
