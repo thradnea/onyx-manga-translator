@@ -16,6 +16,7 @@ This tool is designed for readers and scanlation groups who need a fast way to g
 * **Automatic Typesetting**: Cleans the original text from the speech bubbles and typesets the new translated text, fitting it reasonably well to speech bubbles.
 * **Fully Local**: The entire pipeline runs on your own resources with no strings attached. No images or data are uploaded to third-party servers, except for the text sent to the Google Translate API.
 * **CPU Support**: Runs entirely on your CPU, with plans for CUDA support in the near future on Patreon for faster speeds.
+* **Database Integration**: Integrates a SQlite database for past translations. Editing said translations can bring better results over the span of translating a particular manga, since misinterpreted words can be corrected.
 
 ---
 
