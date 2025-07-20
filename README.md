@@ -44,7 +44,7 @@ While you are free to use this version, please note the future development model
 
 ---
 
-## 🔒 Future Development & Support
+## Future Development & Support
 
 **This GitHub repository is an alpha snapshot and will not be regularly updated, only maintained for use.**
 
@@ -55,7 +55,9 @@ All future development, including smaller bug fixes, new features, and performan
 * **Commercial Licenses**: Options for professional and commercial translation teams.
 * **Support and suggestions**: Help with any arising issues and the ability to suggest new features in the Discord.
 
-**[➡️ Support Future Development on Patreon!](https://www.patreon.com/your-patreon-link)**
+<a href="https://www.patreon.com/your-patreon-link">
+    <img src="https://user-images.githubusercontent.com/1389833/233842308-52595693-d2d7-400d-9271-29e6b7972004.png" alt="Become a Patron" />
+</a>
 
 Your support allows for the continued development. Thank you.
 ## Credits
