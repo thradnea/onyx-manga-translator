@@ -6,7 +6,7 @@ Onyx is a powerful, purely locally running machine translation pipeline designed
 
 This tool is designed for readers and scanlation groups who need a fast way to get initial crude, but readable translations of their favorite series.
 
-Test runs with Jujutsu Kaisen and Blue Giant are inside the repo in the translations directory.
+Test runs with Jujutsu Kaisen and Blue Giant are here: (https://mega.nz/folder/ZUwBmT4C#U-x2wiALmSzCekFHcoTGeQ)
 
 ---
 
