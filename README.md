@@ -37,7 +37,7 @@ Test runs with Jujutsu Kaisen and Blue Giant are here: (https://mega.nz/folder/Z
 
 4. You can also clone the repository and use it directly through an IDE by running main.py. Please note, that you still need to clone the huggingface repository by kitsumed at the bottom of the README and clone the manga-ocr repository by kha-white. The original project's structure was as follows:
 
-(https://github.com/thradnea/onyx-manga-translator/blob/main/images/image.png?raw=true)
+![File Structure](https://github.com/thradnea/onyx-manga-translator/blob/main/images/image.png?raw=true)
 ---
 
 ## License & Credit
