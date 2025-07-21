@@ -1,0 +1,14 @@
+# GUI Framework
+customtkinter
+
+# Machine Learning & Image Processing
+torch
+ultralytics
+opencv-python
+manga-ocr
+numpy
+Pillow
+
+# APIs & Utilities
+google-cloud-translate
+natsort
