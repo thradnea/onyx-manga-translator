@@ -35,6 +35,22 @@ Test runs with Jujutsu Kaisen and Blue Giant are here: (https://mega.nz/folder/Z
 2. Add desired images to the input folder of manga raws in .jpg/.png formats and click "Browse" to locate the input folder.
 3. Lastly, add your api.json file from Google Cloud.
 
+4. You can also clone the repository and use it directly through an IDE by running main.py. Please note, that you still need to clone the huggingface repository by kitsumed at the bottom of the README and clone the manga-ocr repository by kha-white. The original project's structure was as follows:
+
+C:.
+├───input
+├───Lib
+├───manga_translator
+│       memory.py
+│       translator.py
+│   app.py
+│   config_manager.py
+│   db_editor.py
+│   main.py
+│   requirements.txt
+│
+└───output
+
 ---
 
 ## License & Credit
